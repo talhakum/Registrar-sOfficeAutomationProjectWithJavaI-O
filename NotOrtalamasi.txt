@@ -1,0 +1,3 @@
+OGR ID DERS ID NOT NOTORTALAMASI
+1      1       70
+1                  70.0

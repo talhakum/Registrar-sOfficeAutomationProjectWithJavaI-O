@@ -1,0 +1,4 @@
+DERS ID DERS AD
+1       bot
+2       nyp
+3       mikro
